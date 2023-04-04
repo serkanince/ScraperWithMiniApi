@@ -1,6 +1,6 @@
 # ScraperWithMiniApi
 
-> [Read Blog Article on Medium (in turkish)]()
+> [Read Blog Article on Medium (in turkish)](https://medium.com/@serkanince/dotnet-7-selenium-webdriver-ve-notion-api-ile-web-scraping-macerasi-f4b2dd86dda2)
 
 This project a .Net 7 Minimal API that automatically retrieves the lowest and highest price of a used car listed (like sahibinden,ebay etc.) on a particular website using Selenium and WebDriverManager. The retrieved prices are then written to a document on a day-to-day basis using the Notion API. 
 
